@@ -94,3 +94,25 @@ Use this tool only on domains you own or have explicit permission to test. The d
 ---
 
 ⭐ If you find this project useful, consider giving it a star!
+
+
+
+
+
+
+## 📸 Project Screenshots
+
+### Main Python Code
+![Main Code](screenshots/main.py-code-1.png)
+
+### Main Code - Part 2
+![Main Code Part 2](screenshots/main.py-code-2.png)
+
+### Terminal Output
+![Terminal Output](screenshots/terminal-output.png)
+
+### Wordlist
+![Wordlist](screenshots/wordlist.png)
+
+### Results
+![Results](screenshots/results.png)
