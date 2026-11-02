@@ -1,0 +1,44 @@
+DNS ENUMERATION REPORT
+Target: example.com
+-----------------------------
+
+Checking: www.example.com
+A Record:
+104.20.23.154
+172.66.147.243
+AAAA Record:
+2606:4700:9c65:72db:f20c:0:ef6b:ff98
+No CNAME record found.
+
+Checking: mail.example.com
+No A record found.
+No AAAA record found.
+No CNAME record found.
+
+Checking: admin.example.com
+No A record found.
+No AAAA record found.
+No CNAME record found.
+
+Checking: api.example.com
+No A record found.
+No AAAA record found.
+No CNAME record found.
+
+Checking: test.example.com
+No A record found.
+No AAAA record found.
+No CNAME record found.
+
+Checking: support.example.com
+No A record found.
+No AAAA record found.
+No CNAME record found.
+
+PROJECT SUMMARY
+Total Candidates: 6
+Records Found: 1
+No Records: 5
+DNS Errors: 0
+
+Enumeration Completed!!!!
